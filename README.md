@@ -13,3 +13,10 @@ This repository contains my SQL practice solutions for interview preparation.
 ## Goal
 
 To improve SQL problem-solving skills for coding interviews and placements.
+
+## Progress Tracker
+
+- Basic SELECT: Started
+- Joins: Started
+- Aggregations: Started
+- Subqueries: Started
